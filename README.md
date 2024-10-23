@@ -1,4 +1,4 @@
-Here is my "small" project me and my friend code in Python, mainly using Tkinter. 
+Here is my "small" project me and my friend (Nghia Nguyen Duc) code in Python, mainly using Tkinter. 
 
 **ABOUT:** A card game with multiple characters, items to choose from and a fun gameplay.
 
