@@ -15,3 +15,15 @@ Here is my "small" project me and my friend (Nghia Nguyen Duc) code in Python, m
 2) **Start the project**
 
 `python3 Card_Game.py`
+
+**CURRENT FEATURES**: 
+- Can pick characters
+- Have a simple AI for Enemies
+- Do some basic actions (Normal Attack, Save, End turn, End phase, Change)
+
+**FUTURE FEATURES**: 
+- Randomize Items
+- Can equip Items
+- Characters' Passive 
+- Do other Attack commands (Magic Attack, Special Attack, Insanity Attack)
+- A completely game cycle
