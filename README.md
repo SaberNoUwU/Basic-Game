@@ -14,4 +14,4 @@ Here is my "small" project me and my friend code in Python, mainly using Tkinter
 
 2) **Start the project**
 
-`python3 
+`python3 Card_Game.py`
